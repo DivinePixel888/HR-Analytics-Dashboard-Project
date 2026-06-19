@@ -4,7 +4,7 @@
 
 🚧 **In Progress**
 
-This project is currently under development. The dashboard design, data modeling, and analysis are actively being worked on. Updates will be added as new milestones are completed.
+This HR Analytics Dashboard project is currently under development. The data model has been established and key workforce KPIs have been created. Dashboard development, analysis, and documentation are ongoing. Progress updates will be added as major milestones are completed.
 
 Current Development Stage
 
