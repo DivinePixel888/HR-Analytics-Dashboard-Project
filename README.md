@@ -1,7 +1,5 @@
 # HR Analytics Dashboard Project
 
-## Project Status
-
 🚧 PROJECT STATUS: IN PROGRESS
 
 This project is currently under development. The dashboard design, data modeling, and analysis are actively being worked on. Updates will be added as new milestones are completed.
@@ -107,13 +105,15 @@ The dashboard will include:
 
 🚧 **In Progress**
 
-Current development stage:
+
+Current Development Stage
 
 * [x] Project planning
 * [x] Dataset review
 * [x] Business requirements definition
-* [ ] Data cleaning
-* [ ] Data modeling
+* [x] Data exploration and validation
+* [x] Data modeling
+* [ ] Data cleaning (if required)
 * [ ] Dashboard development
 * [ ] Dashboard testing
 * [ ] Documentation completion
