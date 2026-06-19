@@ -6,9 +6,6 @@
 
 This project is currently under development. The dashboard design, data modeling, and analysis are actively being worked on. Updates will be added as new milestones are completed.
 
-## Project Overview
-
-...
 ---
 
 ## Project Overview
